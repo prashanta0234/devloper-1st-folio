@@ -51,3 +51,59 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+.expriance{
+   
+    margin-top: 50px;
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    /* background-size: 50% 0; */
+}
+.expriance div{
+    box-shadow: 5px 7px 40px gray;
+    height: 80%;
+
+   
+    
+}
+.expriance h1{
+    font-size: 50px;
+    margin-left: 2%;
+}
+#full-stack h3{
+    color:#F78768 ;
+}
+#baby-web h3{
+    color:#F78768 ;
+}
+#baby-web h2{
+    font-size: 35px;
+}
+#full-stack h2{
+    font-size: 35px;
+}
+#full-stack p{
+    padding-right:20px;
+}
+#baby-web p{
+    padding-right:20px;
+}
+#baby-web{
+    margin-left: 8%;
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+    border-radius: 5px;
+}
+#full-stack{
+    
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    
+}
+.footer h4{
+    margin-top: 80px;
+    text-align: center;
+
+}
