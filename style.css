@@ -17,8 +17,8 @@ section{
 .half_div{
     width: 40%;
     float: left;
-    margin-left: 5%;
-    padding-left: 4%;
+    margin-left: 4%;
+    padding-left: 2%;
     margin-top: 30px;
 }
 .half_div img{
@@ -42,4 +42,12 @@ section{
     border-radius: 5px;
     color: white;
     font-weight: 700;
+}
+.four{
+    padding-right: 20px;
+}
+.dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
